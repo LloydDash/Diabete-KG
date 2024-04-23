@@ -1,7 +1,7 @@
 # Diabete-KG
 糖尿病知识图谱建模及用药推荐
 
-数据文件说明：
+一、数据文件说明：
 
 知识图谱：
 1. patient.xlsx：糖尿病病人住院原始数据
@@ -37,7 +37,7 @@
 2. pred_all.xlsx：预测所有药物结果（解码后）
 
 
-代码功能说明：
+二、代码功能说明：
 
 主要代码：
 1. build_patientgraph.py：配置并启动neo4j后运行，开始自动构建neo4j知识图谱，打开网址http://localhost:7474，账户名为neo4j，密码为medneo
@@ -69,7 +69,7 @@
 9. csv3.py：生成知识图谱实体csv文件relationships.csv，存储实体关系三元组
 
 
-环境配置说明：
+三、环境配置说明：
 
 知识图谱建模代码环境配置：
 1.Python配置环境：
