@@ -1,0 +1,302 @@
+[
+  {
+    "n": {
+      "identity": 15957,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "非酒精性脂肪肝"
+      },
+      "elementId": "15957"
+    }
+  },
+  {
+    "n": {
+      "identity": 15958,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖尿酮症酸中毒"
+      },
+      "elementId": "15958"
+    }
+  },
+  {
+    "n": {
+      "identity": 15959,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖尿病性酮症酸中毒"
+      },
+      "elementId": "15959"
+    }
+  },
+  {
+    "n": {
+      "identity": 15960,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1.2型糖尿病"
+      },
+      "elementId": "15960"
+    }
+  },
+  {
+    "n": {
+      "identity": 15961,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1型糖尿病(脐带血间充质干细胞移植术后)"
+      },
+      "elementId": "15961"
+    }
+  },
+  {
+    "n": {
+      "identity": 15962,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "2型糖尿病"
+      },
+      "elementId": "15962"
+    }
+  },
+  {
+    "n": {
+      "identity": 15963,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1型糖尿病(间充质干细胞移植术后)"
+      },
+      "elementId": "15963"
+    }
+  },
+  {
+    "n": {
+      "identity": 15964,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "2型糖尿型"
+      },
+      "elementId": "15964"
+    }
+  },
+  {
+    "n": {
+      "identity": 15965,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1.1型糖尿病"
+      },
+      "elementId": "15965"
+    }
+  },
+  {
+    "n": {
+      "identity": 15966,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖尿病酮症"
+      },
+      "elementId": "15966"
+    }
+  },
+  {
+    "n": {
+      "identity": 15967,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "2型糖尿病高血压2级(极高危组)"
+      },
+      "elementId": "15967"
+    }
+  },
+  {
+    "n": {
+      "identity": 15968,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "低钾血症"
+      },
+      "elementId": "15968"
+    }
+  },
+  {
+    "n": {
+      "identity": 15969,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "空腹血糖受损"
+      },
+      "elementId": "15969"
+    }
+  },
+  {
+    "n": {
+      "identity": 15970,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "2型糖尿病神经炎(股外侧)"
+      },
+      "elementId": "15970"
+    }
+  },
+  {
+    "n": {
+      "identity": 15971,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖尿病"
+      },
+      "elementId": "15971"
+    }
+  },
+  {
+    "n": {
+      "identity": 15972,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1型糖尿病2.甲状腺肿大"
+      },
+      "elementId": "15972"
+    }
+  },
+  {
+    "n": {
+      "identity": 15973,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖尿病酮症酸中毒"
+      },
+      "elementId": "15973"
+    }
+  },
+  {
+    "n": {
+      "identity": 15974,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1.糖尿病"
+      },
+      "elementId": "15974"
+    }
+  },
+  {
+    "n": {
+      "identity": 15975,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1型糖尿病(脐带间充质干细胞移植术后)"
+      },
+      "elementId": "15975"
+    }
+  },
+  {
+    "n": {
+      "identity": 15976,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1型糖尿病"
+      },
+      "elementId": "15976"
+    }
+  },
+  {
+    "n": {
+      "identity": 15977,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖耐量异常"
+      },
+      "elementId": "15977"
+    }
+  },
+  {
+    "n": {
+      "identity": 15978,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "糖调节受损"
+      },
+      "elementId": "15978"
+    }
+  },
+  {
+    "n": {
+      "identity": 15979,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1.糖调节受损"
+      },
+      "elementId": "15979"
+    }
+  },
+  {
+    "n": {
+      "identity": 15980,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "1型糖尿病性酮症酸中毒"
+      },
+      "elementId": "15980"
+    }
+  },
+  {
+    "n": {
+      "identity": 15981,
+      "labels": [
+        "Diabete"
+      ],
+      "properties": {
+        "name": "2型糖尿病糖尿病酮症"
+      },
+      "elementId": "15981"
+    }
+  }
+]

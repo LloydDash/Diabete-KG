@@ -1,0 +1,6 @@
+data: data/糖尿病病人住院数据.xlsx
+dict: data/用药词典.txt
+refine: 3
+data_copy: data/住院数据副本.xlsx
+dict_copy: data/用药词典.txt
+start_row: 250

@@ -1,0 +1,338 @@
+[
+  {
+    "n": {
+      "identity": 12133,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "精蛋白生物合成人胰岛素注射液预混50R"
+      },
+      "elementId": "12133"
+    }
+  },
+  {
+    "n": {
+      "identity": 12134,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "格列喹酮片"
+      },
+      "elementId": "12134"
+    }
+  },
+  {
+    "n": {
+      "identity": 12135,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "维格列汀片"
+      },
+      "elementId": "12135"
+    }
+  },
+  {
+    "n": {
+      "identity": 12136,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "利司那肽注射液"
+      },
+      "elementId": "12136"
+    }
+  },
+  {
+    "n": {
+      "identity": 12137,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "拜唐苹片"
+      },
+      "elementId": "12137"
+    }
+  },
+  {
+    "n": {
+      "identity": 12138,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "利格列汀"
+      },
+      "elementId": "12138"
+    }
+  },
+  {
+    "n": {
+      "identity": 12139,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "那格列奈片"
+      },
+      "elementId": "12139"
+    }
+  },
+  {
+    "n": {
+      "identity": 12140,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "精蛋白生物合成人胰岛素注射液"
+      },
+      "elementId": "12140"
+    }
+  },
+  {
+    "n": {
+      "identity": 12141,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "门冬胰岛素30注射液"
+      },
+      "elementId": "12141"
+    }
+  },
+  {
+    "n": {
+      "identity": 12142,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "甘精胰岛素注射液"
+      },
+      "elementId": "12142"
+    }
+  },
+  {
+    "n": {
+      "identity": 12143,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "格列齐特片"
+      },
+      "elementId": "12143"
+    }
+  },
+  {
+    "n": {
+      "identity": 12144,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "磷酸西格列汀片"
+      },
+      "elementId": "12144"
+    }
+  },
+  {
+    "n": {
+      "identity": 12145,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "沙格列汀片"
+      },
+      "elementId": "12145"
+    }
+  },
+  {
+    "n": {
+      "identity": 12146,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "盐酸二甲双胍片"
+      },
+      "elementId": "12146"
+    }
+  },
+  {
+    "n": {
+      "identity": 12147,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "地特胰岛素注射液"
+      },
+      "elementId": "12147"
+    }
+  },
+  {
+    "n": {
+      "identity": 12148,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "艾塞那肽注射液"
+      },
+      "elementId": "12148"
+    }
+  },
+  {
+    "n": {
+      "identity": 12149,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "达格列净片"
+      },
+      "elementId": "12149"
+    }
+  },
+  {
+    "n": {
+      "identity": 12150,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "利拉鲁肽注射液"
+      },
+      "elementId": "12150"
+    }
+  },
+  {
+    "n": {
+      "identity": 12151,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "精蛋白锌重组赖脯胰岛素混合注射液50R"
+      },
+      "elementId": "12151"
+    }
+  },
+  {
+    "n": {
+      "identity": 12152,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "恩格列净片"
+      },
+      "elementId": "12152"
+    }
+  },
+  {
+    "n": {
+      "identity": 12153,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "格列吡嗪缓释片"
+      },
+      "elementId": "12153"
+    }
+  },
+  {
+    "n": {
+      "identity": 12154,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "门冬胰岛素注射液"
+      },
+      "elementId": "12154"
+    }
+  },
+  {
+    "n": {
+      "identity": 12155,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "格列吡嗪控释片"
+      },
+      "elementId": "12155"
+    }
+  },
+  {
+    "n": {
+      "identity": 12156,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "德谷胰岛素"
+      },
+      "elementId": "12156"
+    }
+  },
+  {
+    "n": {
+      "identity": 12157,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "瑞格列奈片"
+      },
+      "elementId": "12157"
+    }
+  },
+  {
+    "n": {
+      "identity": 12158,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "格列美脲片"
+      },
+      "elementId": "12158"
+    }
+  },
+  {
+    "n": {
+      "identity": 12159,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "精蛋白生物合成人胰岛素注射液预混30R"
+      },
+      "elementId": "12159"
+    }
+  },
+  {
+    "n": {
+      "identity": 12160,
+      "labels": [
+        "Diabete_Drug"
+      ],
+      "properties": {
+        "name": "生物合成人胰岛素"
+      },
+      "elementId": "12160"
+    }
+  }
+]

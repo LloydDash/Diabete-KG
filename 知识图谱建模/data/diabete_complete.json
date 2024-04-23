@@ -1,0 +1,1454 @@
+[
+  {
+    "n": {
+      "identity": 15982,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "亚临床糖尿病外周神经病变"
+      },
+      "elementId": "15982"
+    }
+  },
+  {
+    "n": {
+      "identity": 15983,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病自主神经病变"
+      },
+      "elementId": "15983"
+    }
+  },
+  {
+    "n": {
+      "identity": 15984,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性大血管病变"
+      },
+      "elementId": "15984"
+    }
+  },
+  {
+    "n": {
+      "identity": 15985,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "2型糖尿病周围神经病变"
+      },
+      "elementId": "15985"
+    }
+  },
+  {
+    "n": {
+      "identity": 15986,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性酮症酸中毒"
+      },
+      "elementId": "15986"
+    }
+  },
+  {
+    "n": {
+      "identity": 15987,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "暴发性1型糖尿病"
+      },
+      "elementId": "15987"
+    }
+  },
+  {
+    "n": {
+      "identity": 15988,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围神经损害"
+      },
+      "elementId": "15988"
+    }
+  },
+  {
+    "n": {
+      "identity": 15989,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围神经病"
+      },
+      "elementId": "15989"
+    }
+  },
+  {
+    "n": {
+      "identity": 15990,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病胃轻瘫"
+      },
+      "elementId": "15990"
+    }
+  },
+  {
+    "n": {
+      "identity": 15991,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变3期"
+      },
+      "elementId": "15991"
+    }
+  },
+  {
+    "n": {
+      "identity": 15992,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（CKDI期）"
+      },
+      "elementId": "15992"
+    }
+  },
+  {
+    "n": {
+      "identity": 15993,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变Ⅳ期"
+      },
+      "elementId": "15993"
+    }
+  },
+  {
+    "n": {
+      "identity": 15994,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变1期"
+      },
+      "elementId": "15994"
+    }
+  },
+  {
+    "n": {
+      "identity": 15995,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病5期"
+      },
+      "elementId": "15995"
+    }
+  },
+  {
+    "n": {
+      "identity": 15996,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病足部神经病变"
+      },
+      "elementId": "15996"
+    }
+  },
+  {
+    "n": {
+      "identity": 15997,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "I型糖尿病"
+      },
+      "elementId": "15997"
+    }
+  },
+  {
+    "n": {
+      "identity": 15998,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（IV期）"
+      },
+      "elementId": "15998"
+    }
+  },
+  {
+    "n": {
+      "identity": 15999,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病足（右）"
+      },
+      "elementId": "15999"
+    }
+  },
+  {
+    "n": {
+      "identity": 16000,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "2型糖尿病性周围神经病变"
+      },
+      "elementId": "16000"
+    }
+  },
+  {
+    "n": {
+      "identity": 16001,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病植物神经病变"
+      },
+      "elementId": "16001"
+    }
+  },
+  {
+    "n": {
+      "identity": 16002,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（尿毒症期）"
+      },
+      "elementId": "16002"
+    }
+  },
+  {
+    "n": {
+      "identity": 16003,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "成人自身免疫性1型糖尿病（LADA）"
+      },
+      "elementId": "16003"
+    }
+  },
+  {
+    "n": {
+      "identity": 16004,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变(双眼激光治疗术后)"
+      },
+      "elementId": "16004"
+    }
+  },
+  {
+    "n": {
+      "identity": 16005,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病足"
+      },
+      "elementId": "16005"
+    }
+  },
+  {
+    "n": {
+      "identity": 16006,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变术后"
+      },
+      "elementId": "16006"
+    }
+  },
+  {
+    "n": {
+      "identity": 16007,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变Ⅲ期"
+      },
+      "elementId": "16007"
+    }
+  },
+  {
+    "n": {
+      "identity": 16008,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病"
+      },
+      "elementId": "16008"
+    }
+  },
+  {
+    "n": {
+      "identity": 16009,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "2型糖尿病糖尿病酮症"
+      },
+      "elementId": "16009"
+    }
+  },
+  {
+    "n": {
+      "identity": 16010,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（右眼III期，左眼IV期）"
+      },
+      "elementId": "16010"
+    }
+  },
+  {
+    "n": {
+      "identity": 16011,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性周围神经病变"
+      },
+      "elementId": "16011"
+    }
+  },
+  {
+    "n": {
+      "identity": 16012,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变（3期）"
+      },
+      "elementId": "16012"
+    }
+  },
+  {
+    "n": {
+      "identity": 16013,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病胃瘫"
+      },
+      "elementId": "16013"
+    }
+  },
+  {
+    "n": {
+      "identity": 16014,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变1期"
+      },
+      "elementId": "16014"
+    }
+  },
+  {
+    "n": {
+      "identity": 16015,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（Ⅱ期）"
+      },
+      "elementId": "16015"
+    }
+  },
+  {
+    "n": {
+      "identity": 16016,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病4期"
+      },
+      "elementId": "16016"
+    }
+  },
+  {
+    "n": {
+      "identity": 16017,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围神经病变（亚临床）"
+      },
+      "elementId": "16017"
+    }
+  },
+  {
+    "n": {
+      "identity": 16018,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性肾病"
+      },
+      "elementId": "16018"
+    }
+  },
+  {
+    "n": {
+      "identity": 16019,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（G4A3期）"
+      },
+      "elementId": "16019"
+    }
+  },
+  {
+    "n": {
+      "identity": 16020,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病"
+      },
+      "elementId": "16020"
+    }
+  },
+  {
+    "n": {
+      "identity": 16021,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变2期"
+      },
+      "elementId": "16021"
+    }
+  },
+  {
+    "n": {
+      "identity": 16022,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病2期"
+      },
+      "elementId": "16022"
+    }
+  },
+  {
+    "n": {
+      "identity": 16023,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "2型糖尿病性视网膜病变"
+      },
+      "elementId": "16023"
+    }
+  },
+  {
+    "n": {
+      "identity": 16024,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "左糖尿病足伴感染"
+      },
+      "elementId": "16024"
+    }
+  },
+  {
+    "n": {
+      "identity": 16025,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变I期"
+      },
+      "elementId": "16025"
+    }
+  },
+  {
+    "n": {
+      "identity": 16026,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病"
+      },
+      "elementId": "16026"
+    }
+  },
+  {
+    "n": {
+      "identity": 16027,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变激光术后"
+      },
+      "elementId": "16027"
+    }
+  },
+  {
+    "n": {
+      "identity": 16028,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾脏病"
+      },
+      "elementId": "16028"
+    }
+  },
+  {
+    "n": {
+      "identity": 16029,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变II期"
+      },
+      "elementId": "16029"
+    }
+  },
+  {
+    "n": {
+      "identity": 16030,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变3期"
+      },
+      "elementId": "16030"
+    }
+  },
+  {
+    "n": {
+      "identity": 16031,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "右糖尿病足"
+      },
+      "elementId": "16031"
+    }
+  },
+  {
+    "n": {
+      "identity": 16032,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围血管病变"
+      },
+      "elementId": "16032"
+    }
+  },
+  {
+    "n": {
+      "identity": 16033,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "亚临床糖尿病神经病变"
+      },
+      "elementId": "16033"
+    }
+  },
+  {
+    "n": {
+      "identity": 16034,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变（I期）"
+      },
+      "elementId": "16034"
+    }
+  },
+  {
+    "n": {
+      "identity": 16035,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "增殖性糖尿病视网膜病变"
+      },
+      "elementId": "16035"
+    }
+  },
+  {
+    "n": {
+      "identity": 16036,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（IV期）"
+      },
+      "elementId": "16036"
+    }
+  },
+  {
+    "n": {
+      "identity": 16037,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变"
+      },
+      "elementId": "16037"
+    }
+  },
+  {
+    "n": {
+      "identity": 16038,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变III期"
+      },
+      "elementId": "16038"
+    }
+  },
+  {
+    "n": {
+      "identity": 16039,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围病变"
+      },
+      "elementId": "16039"
+    }
+  },
+  {
+    "n": {
+      "identity": 16040,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病高渗性状态"
+      },
+      "elementId": "16040"
+    }
+  },
+  {
+    "n": {
+      "identity": 16041,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（I期）"
+      },
+      "elementId": "16041"
+    }
+  },
+  {
+    "n": {
+      "identity": 16042,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "左眼糖尿病视网膜病变"
+      },
+      "elementId": "16042"
+    }
+  },
+  {
+    "n": {
+      "identity": 16043,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病1期"
+      },
+      "elementId": "16043"
+    }
+  },
+  {
+    "n": {
+      "identity": 16044,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（CKD3期）"
+      },
+      "elementId": "16044"
+    }
+  },
+  {
+    "n": {
+      "identity": 16045,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病合并妊娠"
+      },
+      "elementId": "16045"
+    }
+  },
+  {
+    "n": {
+      "identity": 16046,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病外周神经病变"
+      },
+      "elementId": "16046"
+    }
+  },
+  {
+    "n": {
+      "identity": 16047,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性胃轻瘫"
+      },
+      "elementId": "16047"
+    }
+  },
+  {
+    "n": {
+      "identity": 16048,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（2期）"
+      },
+      "elementId": "16048"
+    }
+  },
+  {
+    "n": {
+      "identity": 16049,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病慢性肾脏病3期"
+      },
+      "elementId": "16049"
+    }
+  },
+  {
+    "n": {
+      "identity": 16050,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变II期"
+      },
+      "elementId": "16050"
+    }
+  },
+  {
+    "n": {
+      "identity": 16051,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "2型糖尿病。"
+      },
+      "elementId": "16051"
+    }
+  },
+  {
+    "n": {
+      "identity": 16052,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性视网膜病变"
+      },
+      "elementId": "16052"
+    }
+  },
+  {
+    "n": {
+      "identity": 16053,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（Ⅲ期）"
+      },
+      "elementId": "16053"
+    }
+  },
+  {
+    "n": {
+      "identity": 16054,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（3期）"
+      },
+      "elementId": "16054"
+    }
+  },
+  {
+    "n": {
+      "identity": 16055,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病酮症酸中毒"
+      },
+      "elementId": "16055"
+    }
+  },
+  {
+    "n": {
+      "identity": 16056,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "1型糖尿病"
+      },
+      "elementId": "16056"
+    }
+  },
+  {
+    "n": {
+      "identity": 16057,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾脏病变"
+      },
+      "elementId": "16057"
+    }
+  },
+  {
+    "n": {
+      "identity": 16058,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（Ⅰ期）"
+      },
+      "elementId": "16058"
+    }
+  },
+  {
+    "n": {
+      "identity": 16059,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病足病"
+      },
+      "elementId": "16059"
+    }
+  },
+  {
+    "n": {
+      "identity": 16060,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（CKD5期）"
+      },
+      "elementId": "16060"
+    }
+  },
+  {
+    "n": {
+      "identity": 16061,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变4期"
+      },
+      "elementId": "16061"
+    }
+  },
+  {
+    "n": {
+      "identity": 16062,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性神经病变"
+      },
+      "elementId": "16062"
+    }
+  },
+  {
+    "n": {
+      "identity": 16063,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（III期）"
+      },
+      "elementId": "16063"
+    }
+  },
+  {
+    "n": {
+      "identity": 16064,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病CKD3期"
+      },
+      "elementId": "16064"
+    }
+  },
+  {
+    "n": {
+      "identity": 16065,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变激光治疗术后"
+      },
+      "elementId": "16065"
+    }
+  },
+  {
+    "n": {
+      "identity": 16066,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围神经血管病变"
+      },
+      "elementId": "16066"
+    }
+  },
+  {
+    "n": {
+      "identity": 16067,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周围神经病变"
+      },
+      "elementId": "16067"
+    }
+  },
+  {
+    "n": {
+      "identity": 16068,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（激光治疗术后）"
+      },
+      "elementId": "16068"
+    }
+  },
+  {
+    "n": {
+      "identity": 16069,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病Ⅳ期"
+      },
+      "elementId": "16069"
+    }
+  },
+  {
+    "n": {
+      "identity": 16070,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "亚临床型糖尿病周围神经病变"
+      },
+      "elementId": "16070"
+    }
+  },
+  {
+    "n": {
+      "identity": 16071,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "右眼糖尿病视网膜病变"
+      },
+      "elementId": "16071"
+    }
+  },
+  {
+    "n": {
+      "identity": 16072,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病神经病变早期"
+      },
+      "elementId": "16072"
+    }
+  },
+  {
+    "n": {
+      "identity": 16073,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "2型糖尿病"
+      },
+      "elementId": "16073"
+    }
+  },
+  {
+    "n": {
+      "identity": 16074,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "双眼糖尿病视网膜病变激光治疗术后"
+      },
+      "elementId": "16074"
+    }
+  },
+  {
+    "n": {
+      "identity": 16075,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（II期）"
+      },
+      "elementId": "16075"
+    }
+  },
+  {
+    "n": {
+      "identity": 16076,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病颅神经病变"
+      },
+      "elementId": "16076"
+    }
+  },
+  {
+    "n": {
+      "identity": 16077,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性周围神经病"
+      },
+      "elementId": "16077"
+    }
+  },
+  {
+    "n": {
+      "identity": 16078,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病酮症"
+      },
+      "elementId": "16078"
+    }
+  },
+  {
+    "n": {
+      "identity": 16079,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变(II期)"
+      },
+      "elementId": "16079"
+    }
+  },
+  {
+    "n": {
+      "identity": 16080,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病足清创术后"
+      },
+      "elementId": "16080"
+    }
+  },
+  {
+    "n": {
+      "identity": 16081,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变I期"
+      },
+      "elementId": "16081"
+    }
+  },
+  {
+    "n": {
+      "identity": 16082,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（III期）"
+      },
+      "elementId": "16082"
+    }
+  },
+  {
+    "n": {
+      "identity": 16083,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（增殖期）"
+      },
+      "elementId": "16083"
+    }
+  },
+  {
+    "n": {
+      "identity": 16084,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病大血管病变"
+      },
+      "elementId": "16084"
+    }
+  },
+  {
+    "n": {
+      "identity": 16085,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病神经病变"
+      },
+      "elementId": "16085"
+    }
+  },
+  {
+    "n": {
+      "identity": 16086,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变Ⅱ期"
+      },
+      "elementId": "16086"
+    }
+  },
+  {
+    "n": {
+      "identity": 16087,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "双眼糖尿病性视网膜病变"
+      },
+      "elementId": "16087"
+    }
+  },
+  {
+    "n": {
+      "identity": 16088,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病（V期）"
+      },
+      "elementId": "16088"
+    }
+  },
+  {
+    "n": {
+      "identity": 16089,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病性肾病III期"
+      },
+      "elementId": "16089"
+    }
+  },
+  {
+    "n": {
+      "identity": 16090,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病神经源性膀胱"
+      },
+      "elementId": "16090"
+    }
+  },
+  {
+    "n": {
+      "identity": 16091,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病肾病IV期"
+      },
+      "elementId": "16091"
+    }
+  },
+  {
+    "n": {
+      "identity": 16092,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜1期病变"
+      },
+      "elementId": "16092"
+    }
+  },
+  {
+    "n": {
+      "identity": 16093,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变（1期）"
+      },
+      "elementId": "16093"
+    }
+  },
+  {
+    "n": {
+      "identity": 16094,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "爆发型1型糖尿病"
+      },
+      "elementId": "16094"
+    }
+  },
+  {
+    "n": {
+      "identity": 16095,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病足（右足跟部）"
+      },
+      "elementId": "16095"
+    }
+  },
+  {
+    "n": {
+      "identity": 16096,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病视网膜病变Ⅰ期"
+      },
+      "elementId": "16096"
+    }
+  },
+  {
+    "n": {
+      "identity": 16097,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "亚临床糖尿病周围神经病变"
+      },
+      "elementId": "16097"
+    }
+  },
+  {
+    "n": {
+      "identity": 16098,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "痛性糖尿病神经病变"
+      },
+      "elementId": "16098"
+    }
+  },
+  {
+    "n": {
+      "identity": 16099,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病周维神经病变"
+      },
+      "elementId": "16099"
+    }
+  },
+  {
+    "n": {
+      "identity": 16100,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "左糖尿病足"
+      },
+      "elementId": "16100"
+    }
+  },
+  {
+    "n": {
+      "identity": 16101,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "糖尿病高渗状态"
+      },
+      "elementId": "16101"
+    }
+  },
+  {
+    "n": {
+      "identity": 16102,
+      "labels": [
+        "Diabetes_Complete"
+      ],
+      "properties": {
+        "name": "双眼糖尿病视网膜病变"
+      },
+      "elementId": "16102"
+    }
+  }
+]

@@ -1,0 +1,2354 @@
+[
+  {
+    "n": {
+      "identity": 11937,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "雅施达"
+      },
+      "elementId": "11937"
+    }
+  },
+  {
+    "n": {
+      "identity": 11938,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "密钙息"
+      },
+      "elementId": "11938"
+    }
+  },
+  {
+    "n": {
+      "identity": 11939,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "糖适平"
+      },
+      "elementId": "11939"
+    }
+  },
+  {
+    "n": {
+      "identity": 11940,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "波依定"
+      },
+      "elementId": "11940"
+    }
+  },
+  {
+    "n": {
+      "identity": 11941,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "百赛诺"
+      },
+      "elementId": "11941"
+    }
+  },
+  {
+    "n": {
+      "identity": 11942,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "利拉鲁肽"
+      },
+      "elementId": "11942"
+    }
+  },
+  {
+    "n": {
+      "identity": 11943,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "加斯清"
+      },
+      "elementId": "11943"
+    }
+  },
+  {
+    "n": {
+      "identity": 11944,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "琥珀酸美托洛尔"
+      },
+      "elementId": "11944"
+    }
+  },
+  {
+    "n": {
+      "identity": 11945,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "代文"
+      },
+      "elementId": "11945"
+    }
+  },
+  {
+    "n": {
+      "identity": 11946,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "唐力"
+      },
+      "elementId": "11946"
+    }
+  },
+  {
+    "n": {
+      "identity": 11947,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "格列奇特"
+      },
+      "elementId": "11947"
+    }
+  },
+  {
+    "n": {
+      "identity": 11948,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "利可君"
+      },
+      "elementId": "11948"
+    }
+  },
+  {
+    "n": {
+      "identity": 11949,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "甘精胰岛素"
+      },
+      "elementId": "11949"
+    }
+  },
+  {
+    "n": {
+      "identity": 11950,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和锐30"
+      },
+      "elementId": "11950"
+    }
+  },
+  {
+    "n": {
+      "identity": 11951,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "呋塞米"
+      },
+      "elementId": "11951"
+    }
+  },
+  {
+    "n": {
+      "identity": 11952,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "酚卞明"
+      },
+      "elementId": "11952"
+    }
+  },
+  {
+    "n": {
+      "identity": 11953,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "氯化钾"
+      },
+      "elementId": "11953"
+    }
+  },
+  {
+    "n": {
+      "identity": 11954,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜唐苹"
+      },
+      "elementId": "11954"
+    }
+  },
+  {
+    "n": {
+      "identity": 11955,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "卜可"
+      },
+      "elementId": "11955"
+    }
+  },
+  {
+    "n": {
+      "identity": 11956,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "达美康"
+      },
+      "elementId": "11956"
+    }
+  },
+  {
+    "n": {
+      "identity": 11957,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "倍博特"
+      },
+      "elementId": "11957"
+    }
+  },
+  {
+    "n": {
+      "identity": 11958,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "双环醇"
+      },
+      "elementId": "11958"
+    }
+  },
+  {
+    "n": {
+      "identity": 11959,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿法骨化醇"
+      },
+      "elementId": "11959"
+    }
+  },
+  {
+    "n": {
+      "identity": 11960,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "兰索拉唑"
+      },
+      "elementId": "11960"
+    }
+  },
+  {
+    "n": {
+      "identity": 11961,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "益肾丸"
+      },
+      "elementId": "11961"
+    }
+  },
+  {
+    "n": {
+      "identity": 11962,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安比丁"
+      },
+      "elementId": "11962"
+    }
+  },
+  {
+    "n": {
+      "identity": 11963,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "捷洛维"
+      },
+      "elementId": "11963"
+    }
+  },
+  {
+    "n": {
+      "identity": 11964,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜糖平"
+      },
+      "elementId": "11964"
+    }
+  },
+  {
+    "n": {
+      "identity": 11965,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "尼莫地平"
+      },
+      "elementId": "11965"
+    }
+  },
+  {
+    "n": {
+      "identity": 11966,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "溴隐亭"
+      },
+      "elementId": "11966"
+    }
+  },
+  {
+    "n": {
+      "identity": 11967,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "舒可捷"
+      },
+      "elementId": "11967"
+    }
+  },
+  {
+    "n": {
+      "identity": 11968,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安内真"
+      },
+      "elementId": "11968"
+    }
+  },
+  {
+    "n": {
+      "identity": 11969,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "美能"
+      },
+      "elementId": "11969"
+    }
+  },
+  {
+    "n": {
+      "identity": 11970,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "雷替斯"
+      },
+      "elementId": "11970"
+    }
+  },
+  {
+    "n": {
+      "identity": 11971,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "易善复"
+      },
+      "elementId": "11971"
+    }
+  },
+  {
+    "n": {
+      "identity": 11972,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "胰岛素"
+      },
+      "elementId": "11972"
+    }
+  },
+  {
+    "n": {
+      "identity": 11973,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "达格列净"
+      },
+      "elementId": "11973"
+    }
+  },
+  {
+    "n": {
+      "identity": 11974,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "欧唐静"
+      },
+      "elementId": "11974"
+    }
+  },
+  {
+    "n": {
+      "identity": 11975,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安博诺"
+      },
+      "elementId": "11975"
+    }
+  },
+  {
+    "n": {
+      "identity": 11976,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "法能"
+      },
+      "elementId": "11976"
+    }
+  },
+  {
+    "n": {
+      "identity": 11977,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "倍他乐克"
+      },
+      "elementId": "11977"
+    }
+  },
+  {
+    "n": {
+      "identity": 11978,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "非布司他"
+      },
+      "elementId": "11978"
+    }
+  },
+  {
+    "n": {
+      "identity": 11979,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "捷诺维"
+      },
+      "elementId": "11979"
+    }
+  },
+  {
+    "n": {
+      "identity": 11980,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "碳酸氢钠"
+      },
+      "elementId": "11980"
+    }
+  },
+  {
+    "n": {
+      "identity": 11981,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "甲钴胺"
+      },
+      "elementId": "11981"
+    }
+  },
+  {
+    "n": {
+      "identity": 11982,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "导升明"
+      },
+      "elementId": "11982"
+    }
+  },
+  {
+    "n": {
+      "identity": 11983,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "钙尔奇"
+      },
+      "elementId": "11983"
+    }
+  },
+  {
+    "n": {
+      "identity": 11984,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "缬沙坦"
+      },
+      "elementId": "11984"
+    }
+  },
+  {
+    "n": {
+      "identity": 11985,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "金水宝"
+      },
+      "elementId": "11985"
+    }
+  },
+  {
+    "n": {
+      "identity": 11986,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "秦苏"
+      },
+      "elementId": "11986"
+    }
+  },
+  {
+    "n": {
+      "identity": 11987,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "长秀霖"
+      },
+      "elementId": "11987"
+    }
+  },
+  {
+    "n": {
+      "identity": 11988,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "苯磺酸氨氯地平"
+      },
+      "elementId": "11988"
+    }
+  },
+  {
+    "n": {
+      "identity": 11989,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "瑞易宁"
+      },
+      "elementId": "11989"
+    }
+  },
+  {
+    "n": {
+      "identity": 11990,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "敏使朗"
+      },
+      "elementId": "11990"
+    }
+  },
+  {
+    "n": {
+      "identity": 11991,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "优泌乐"
+      },
+      "elementId": "11991"
+    }
+  },
+  {
+    "n": {
+      "identity": 11992,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "醋酸氢化可的松"
+      },
+      "elementId": "11992"
+    }
+  },
+  {
+    "n": {
+      "identity": 11993,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "捷诺达"
+      },
+      "elementId": "11993"
+    }
+  },
+  {
+    "n": {
+      "identity": 11994,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和灵N"
+      },
+      "elementId": "11994"
+    }
+  },
+  {
+    "n": {
+      "identity": 11995,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "水飞蓟素"
+      },
+      "elementId": "11995"
+    }
+  },
+  {
+    "n": {
+      "identity": 11996,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "唐林"
+      },
+      "elementId": "11996"
+    }
+  },
+  {
+    "n": {
+      "identity": 11997,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿发骨化醇"
+      },
+      "elementId": "11997"
+    }
+  },
+  {
+    "n": {
+      "identity": 11998,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "美卡素"
+      },
+      "elementId": "11998"
+    }
+  },
+  {
+    "n": {
+      "identity": 11999,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "友来特"
+      },
+      "elementId": "11999"
+    }
+  },
+  {
+    "n": {
+      "identity": 12000,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "沐舒坦"
+      },
+      "elementId": "12000"
+    }
+  },
+  {
+    "n": {
+      "identity": 12001,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "压氏达"
+      },
+      "elementId": "12001"
+    }
+  },
+  {
+    "n": {
+      "identity": 12002,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "怡开"
+      },
+      "elementId": "12002"
+    }
+  },
+  {
+    "n": {
+      "identity": 12003,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和灵50R"
+      },
+      "elementId": "12003"
+    }
+  },
+  {
+    "n": {
+      "identity": 12004,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "利加隆"
+      },
+      "elementId": "12004"
+    }
+  },
+  {
+    "n": {
+      "identity": 12005,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "弥可保"
+      },
+      "elementId": "12005"
+    }
+  },
+  {
+    "n": {
+      "identity": 12006,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "黄葵"
+      },
+      "elementId": "12006"
+    }
+  },
+  {
+    "n": {
+      "identity": 12007,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "西比灵"
+      },
+      "elementId": "12007"
+    }
+  },
+  {
+    "n": {
+      "identity": 12008,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "维格列汀"
+      },
+      "elementId": "12008"
+    }
+  },
+  {
+    "n": {
+      "identity": 12009,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "雷贝拉唑"
+      },
+      "elementId": "12009"
+    }
+  },
+  {
+    "n": {
+      "identity": 12010,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和平"
+      },
+      "elementId": "12010"
+    }
+  },
+  {
+    "n": {
+      "identity": 12011,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "倍博特 "
+      },
+      "elementId": "12011"
+    }
+  },
+  {
+    "n": {
+      "identity": 12012,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "维生素C"
+      },
+      "elementId": "12012"
+    }
+  },
+  {
+    "n": {
+      "identity": 12013,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "辛伐他汀"
+      },
+      "elementId": "12013"
+    }
+  },
+  {
+    "n": {
+      "identity": 12014,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "赛治"
+      },
+      "elementId": "12014"
+    }
+  },
+  {
+    "n": {
+      "identity": 12015,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜阿司匹林"
+      },
+      "elementId": "12015"
+    }
+  },
+  {
+    "n": {
+      "identity": 12016,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "洁维乐"
+      },
+      "elementId": "12016"
+    }
+  },
+  {
+    "n": {
+      "identity": 12017,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安达唐"
+      },
+      "elementId": "12017"
+    }
+  },
+  {
+    "n": {
+      "identity": 12018,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "优泌林"
+      },
+      "elementId": "12018"
+    }
+  },
+  {
+    "n": {
+      "identity": 12019,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "络活喜"
+      },
+      "elementId": "12019"
+    }
+  },
+  {
+    "n": {
+      "identity": 12020,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和灵R"
+      },
+      "elementId": "12020"
+    }
+  },
+  {
+    "n": {
+      "identity": 12021,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "福善美"
+      },
+      "elementId": "12021"
+    }
+  },
+  {
+    "n": {
+      "identity": 12022,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "贺维力"
+      },
+      "elementId": "12022"
+    }
+  },
+  {
+    "n": {
+      "identity": 12023,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿普唑仑"
+      },
+      "elementId": "12023"
+    }
+  },
+  {
+    "n": {
+      "identity": 12024,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "硝苯地平"
+      },
+      "elementId": "12024"
+    }
+  },
+  {
+    "n": {
+      "identity": 12025,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "培菲康"
+      },
+      "elementId": "12025"
+    }
+  },
+  {
+    "n": {
+      "identity": 12026,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "力蜚能"
+      },
+      "elementId": "12026"
+    }
+  },
+  {
+    "n": {
+      "identity": 12027,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "利福平"
+      },
+      "elementId": "12027"
+    }
+  },
+  {
+    "n": {
+      "identity": 12028,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "益适纯"
+      },
+      "elementId": "12028"
+    }
+  },
+  {
+    "n": {
+      "identity": 12029,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿莫西林"
+      },
+      "elementId": "12029"
+    }
+  },
+  {
+    "n": {
+      "identity": 12030,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "乳果糖"
+      },
+      "elementId": "12030"
+    }
+  },
+  {
+    "n": {
+      "identity": 12031,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "宜合瑞"
+      },
+      "elementId": "12031"
+    }
+  },
+  {
+    "n": {
+      "identity": 12032,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜复乐"
+      },
+      "elementId": "12032"
+    }
+  },
+  {
+    "n": {
+      "identity": 12033,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "赖诺普利"
+      },
+      "elementId": "12033"
+    }
+  },
+  {
+    "n": {
+      "identity": 12034,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安信"
+      },
+      "elementId": "12034"
+    }
+  },
+  {
+    "n": {
+      "identity": 12035,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "优思弗"
+      },
+      "elementId": "12035"
+    }
+  },
+  {
+    "n": {
+      "identity": 12036,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "克拉霉素"
+      },
+      "elementId": "12036"
+    }
+  },
+  {
+    "n": {
+      "identity": 12037,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "心得安"
+      },
+      "elementId": "12037"
+    }
+  },
+  {
+    "n": {
+      "identity": 12038,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "思考林"
+      },
+      "elementId": "12038"
+    }
+  },
+  {
+    "n": {
+      "identity": 12039,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "吲达帕胺"
+      },
+      "elementId": "12039"
+    }
+  },
+  {
+    "n": {
+      "identity": 12040,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "博苏"
+      },
+      "elementId": "12040"
+    }
+  },
+  {
+    "n": {
+      "identity": 12041,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "科素亚"
+      },
+      "elementId": "12041"
+    }
+  },
+  {
+    "n": {
+      "identity": 12042,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "善存"
+      },
+      "elementId": "12042"
+    }
+  },
+  {
+    "n": {
+      "identity": 12043,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "百泌达"
+      },
+      "elementId": "12043"
+    }
+  },
+  {
+    "n": {
+      "identity": 12044,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "优甲乐"
+      },
+      "elementId": "12044"
+    }
+  },
+  {
+    "n": {
+      "identity": 12045,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "贺普丁"
+      },
+      "elementId": "12045"
+    }
+  },
+  {
+    "n": {
+      "identity": 12046,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和灵30R"
+      },
+      "elementId": "12046"
+    }
+  },
+  {
+    "n": {
+      "identity": 12047,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "施慧达"
+      },
+      "elementId": "12047"
+    }
+  },
+  {
+    "n": {
+      "identity": 12048,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿卡波糖"
+      },
+      "elementId": "12048"
+    }
+  },
+  {
+    "n": {
+      "identity": 12049,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "格列吡嗪"
+      },
+      "elementId": "12049"
+    }
+  },
+  {
+    "n": {
+      "identity": 12050,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "皿治林"
+      },
+      "elementId": "12050"
+    }
+  },
+  {
+    "n": {
+      "identity": 12051,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "乐喜林"
+      },
+      "elementId": "12051"
+    }
+  },
+  {
+    "n": {
+      "identity": 12052,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "复发南星止痛膏"
+      },
+      "elementId": "12052"
+    }
+  },
+  {
+    "n": {
+      "identity": 12053,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "亚莫利"
+      },
+      "elementId": "12053"
+    }
+  },
+  {
+    "n": {
+      "identity": 12054,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "利西拉来"
+      },
+      "elementId": "12054"
+    }
+  },
+  {
+    "n": {
+      "identity": 12055,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "瑞舒伐他汀"
+      },
+      "elementId": "12055"
+    }
+  },
+  {
+    "n": {
+      "identity": 12056,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "曲尼司特"
+      },
+      "elementId": "12056"
+    }
+  },
+  {
+    "n": {
+      "identity": 12057,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "钙尔奇D"
+      },
+      "elementId": "12057"
+    }
+  },
+  {
+    "n": {
+      "identity": 12058,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "伲福达"
+      },
+      "elementId": "12058"
+    }
+  },
+  {
+    "n": {
+      "identity": 12059,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "依巴斯汀"
+      },
+      "elementId": "12059"
+    }
+  },
+  {
+    "n": {
+      "identity": 12060,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜新同"
+      },
+      "elementId": "12060"
+    }
+  },
+  {
+    "n": {
+      "identity": 12061,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "来士普"
+      },
+      "elementId": "12061"
+    }
+  },
+  {
+    "n": {
+      "identity": 12062,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "百塞诺"
+      },
+      "elementId": "12062"
+    }
+  },
+  {
+    "n": {
+      "identity": 12063,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "爱乐维"
+      },
+      "elementId": "12063"
+    }
+  },
+  {
+    "n": {
+      "identity": 12064,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "维生素B"
+      },
+      "elementId": "12064"
+    }
+  },
+  {
+    "n": {
+      "identity": 12065,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "盖三淳"
+      },
+      "elementId": "12065"
+    }
+  },
+  {
+    "n": {
+      "identity": 12066,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "磷酸西格列汀"
+      },
+      "elementId": "12066"
+    }
+  },
+  {
+    "n": {
+      "identity": 12067,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "万爽力"
+      },
+      "elementId": "12067"
+    }
+  },
+  {
+    "n": {
+      "identity": 12068,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "富露施"
+      },
+      "elementId": "12068"
+    }
+  },
+  {
+    "n": {
+      "identity": 12069,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "羟苯磺酸钙"
+      },
+      "elementId": "12069"
+    }
+  },
+  {
+    "n": {
+      "identity": 12070,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "卡博平"
+      },
+      "elementId": "12070"
+    }
+  },
+  {
+    "n": {
+      "identity": 12071,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "氯沙坦"
+      },
+      "elementId": "12071"
+    }
+  },
+  {
+    "n": {
+      "identity": 12072,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜阿司匹灵"
+      },
+      "elementId": "12072"
+    }
+  },
+  {
+    "n": {
+      "identity": 12073,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "施惠达"
+      },
+      "elementId": "12073"
+    }
+  },
+  {
+    "n": {
+      "identity": 12074,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "厄贝沙坦"
+      },
+      "elementId": "12074"
+    }
+  },
+  {
+    "n": {
+      "identity": 12075,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "为力苏"
+      },
+      "elementId": "12075"
+    }
+  },
+  {
+    "n": {
+      "identity": 12076,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和龙"
+      },
+      "elementId": "12076"
+    }
+  },
+  {
+    "n": {
+      "identity": 12077,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "格华止"
+      },
+      "elementId": "12077"
+    }
+  },
+  {
+    "n": {
+      "identity": 12078,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿司匹林"
+      },
+      "elementId": "12078"
+    }
+  },
+  {
+    "n": {
+      "identity": 12079,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "艾斯西肽普兰"
+      },
+      "elementId": "12079"
+    }
+  },
+  {
+    "n": {
+      "identity": 12080,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "力平之"
+      },
+      "elementId": "12080"
+    }
+  },
+  {
+    "n": {
+      "identity": 12081,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "非诺贝特"
+      },
+      "elementId": "12081"
+    }
+  },
+  {
+    "n": {
+      "identity": 12082,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "银杏酮酯"
+      },
+      "elementId": "12082"
+    }
+  },
+  {
+    "n": {
+      "identity": 12083,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "门冬胰岛素"
+      },
+      "elementId": "12083"
+    }
+  },
+  {
+    "n": {
+      "identity": 12084,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "欧唐宁"
+      },
+      "elementId": "12084"
+    }
+  },
+  {
+    "n": {
+      "identity": 12085,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "血脂康"
+      },
+      "elementId": "12085"
+    }
+  },
+  {
+    "n": {
+      "identity": 12086,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "二甲双胍"
+      },
+      "elementId": "12086"
+    }
+  },
+  {
+    "n": {
+      "identity": 12087,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "立普妥"
+      },
+      "elementId": "12087"
+    }
+  },
+  {
+    "n": {
+      "identity": 12088,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "赛心得安"
+      },
+      "elementId": "12088"
+    }
+  },
+  {
+    "n": {
+      "identity": 12089,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安博维"
+      },
+      "elementId": "12089"
+    }
+  },
+  {
+    "n": {
+      "identity": 12090,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "苯溴马隆"
+      },
+      "elementId": "12090"
+    }
+  },
+  {
+    "n": {
+      "identity": 12091,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "维固力"
+      },
+      "elementId": "12091"
+    }
+  },
+  {
+    "n": {
+      "identity": 12092,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "依折麦布"
+      },
+      "elementId": "12092"
+    }
+  },
+  {
+    "n": {
+      "identity": 12093,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "佳维乐"
+      },
+      "elementId": "12093"
+    }
+  },
+  {
+    "n": {
+      "identity": 12094,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "耐信"
+      },
+      "elementId": "12094"
+    }
+  },
+  {
+    "n": {
+      "identity": 12095,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "骨化三醇"
+      },
+      "elementId": "12095"
+    }
+  },
+  {
+    "n": {
+      "identity": 12096,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "特治星"
+      },
+      "elementId": "12096"
+    }
+  },
+  {
+    "n": {
+      "identity": 12097,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "弥凝"
+      },
+      "elementId": "12097"
+    }
+  },
+  {
+    "n": {
+      "identity": 12098,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿莫仙"
+      },
+      "elementId": "12098"
+    }
+  },
+  {
+    "n": {
+      "identity": 12099,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "骨化三淳"
+      },
+      "elementId": "12099"
+    }
+  },
+  {
+    "n": {
+      "identity": 12100,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "吡嗪酰胺"
+      },
+      "elementId": "12100"
+    }
+  },
+  {
+    "n": {
+      "identity": 12101,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "波利特"
+      },
+      "elementId": "12101"
+    }
+  },
+  {
+    "n": {
+      "identity": 12102,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "保列治"
+      },
+      "elementId": "12102"
+    }
+  },
+  {
+    "n": {
+      "identity": 12103,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "优泌乐50"
+      },
+      "elementId": "12103"
+    }
+  },
+  {
+    "n": {
+      "identity": 12104,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "奥美拉唑"
+      },
+      "elementId": "12104"
+    }
+  },
+  {
+    "n": {
+      "identity": 12105,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "乙胺丁醇"
+      },
+      "elementId": "12105"
+    }
+  },
+  {
+    "n": {
+      "identity": 12106,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "生理盐水"
+      },
+      "elementId": "12106"
+    }
+  },
+  {
+    "n": {
+      "identity": 12107,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "可定"
+      },
+      "elementId": "12107"
+    }
+  },
+  {
+    "n": {
+      "identity": 12108,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "拜糖苹"
+      },
+      "elementId": "12108"
+    }
+  },
+  {
+    "n": {
+      "identity": 12109,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "小苏打"
+      },
+      "elementId": "12109"
+    }
+  },
+  {
+    "n": {
+      "identity": 12110,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "速力菲"
+      },
+      "elementId": "12110"
+    }
+  },
+  {
+    "n": {
+      "identity": 12111,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "安立泽"
+      },
+      "elementId": "12111"
+    }
+  },
+  {
+    "n": {
+      "identity": 12112,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和力"
+      },
+      "elementId": "12112"
+    }
+  },
+  {
+    "n": {
+      "identity": 12113,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "异烟肼"
+      },
+      "elementId": "12113"
+    }
+  },
+  {
+    "n": {
+      "identity": 12114,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "美托洛尔"
+      },
+      "elementId": "12114"
+    }
+  },
+  {
+    "n": {
+      "identity": 12115,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "来得时"
+      },
+      "elementId": "12115"
+    }
+  },
+  {
+    "n": {
+      "identity": 12116,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "予益宝世灵"
+      },
+      "elementId": "12116"
+    }
+  },
+  {
+    "n": {
+      "identity": 12117,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿托伐他汀"
+      },
+      "elementId": "12117"
+    }
+  },
+  {
+    "n": {
+      "identity": 12118,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "氨氯地平"
+      },
+      "elementId": "12118"
+    }
+  },
+  {
+    "n": {
+      "identity": 12119,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "地高辛"
+      },
+      "elementId": "12119"
+    }
+  },
+  {
+    "n": {
+      "identity": 12120,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "补达秀"
+      },
+      "elementId": "12120"
+    }
+  },
+  {
+    "n": {
+      "identity": 12121,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺和锐"
+      },
+      "elementId": "12121"
+    }
+  },
+  {
+    "n": {
+      "identity": 12122,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "贝莱"
+      },
+      "elementId": "12122"
+    }
+  },
+  {
+    "n": {
+      "identity": 12123,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "杜密克"
+      },
+      "elementId": "12123"
+    }
+  },
+  {
+    "n": {
+      "identity": 12124,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "盖三醇"
+      },
+      "elementId": "12124"
+    }
+  },
+  {
+    "n": {
+      "identity": 12125,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "碳酸钙D3"
+      },
+      "elementId": "12125"
+    }
+  },
+  {
+    "n": {
+      "identity": 12126,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "海昆肾喜"
+      },
+      "elementId": "12126"
+    }
+  },
+  {
+    "n": {
+      "identity": 12127,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "阿法迪三"
+      },
+      "elementId": "12127"
+    }
+  },
+  {
+    "n": {
+      "identity": 12128,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "奥克"
+      },
+      "elementId": "12128"
+    }
+  },
+  {
+    "n": {
+      "identity": 12129,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "罗盖全"
+      },
+      "elementId": "12129"
+    }
+  },
+  {
+    "n": {
+      "identity": 12130,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "泰嘉"
+      },
+      "elementId": "12130"
+    }
+  },
+  {
+    "n": {
+      "identity": 12131,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "博依姆多"
+      },
+      "elementId": "12131"
+    }
+  },
+  {
+    "n": {
+      "identity": 12132,
+      "labels": [
+        "Drug"
+      ],
+      "properties": {
+        "name": "诺邦"
+      },
+      "elementId": "12132"
+    }
+  }
+]
