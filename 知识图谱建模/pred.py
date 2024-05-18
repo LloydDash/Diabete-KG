@@ -30,7 +30,7 @@ for i in range(0,28):
     classifier.fit(X, y)
     y_pred = classifier.predict(X_pred)
     y_all_pred[:,i]=y_pred
-pd.DataFrame(y_all_pred).to_excel(os.path.join(cur_dir, 'train\\pred_diabetes_test.xlsx'))
+pd.DataFrame(y_all_pred).to_excel(os.path.join(cur_dir, 'data\\pred_diabetes_test.xlsx'))
 
 
 
