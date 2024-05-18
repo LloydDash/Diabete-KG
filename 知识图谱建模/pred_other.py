@@ -31,7 +31,7 @@ for i in range(0,172):
     y_pred = classifier.predict(X_pred)
     y_all_pred[:,i]=y_pred
 print(y_all_pred)
-pd.DataFrame(y_all_pred).to_excel(os.path.join(cur_dir, 'data\\pred_not_diabetes_test.xlsx'))
+pd.DataFrame(y_all_pred).to_excel(os.path.join(cur_dir, 'train\\pred_not_diabetes_test.xlsx'))
 
 # Precision=0
 # Recall=0
