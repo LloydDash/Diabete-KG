@@ -52,8 +52,8 @@
 
 3. pred.py：使用机器学习算法(随机森林、伯努利贝叶斯)预测降糖药
 4. pred_other.py：使用机器学习算法(随机森林、伯努利贝叶斯)预测非降糖药
-5. result_diaberes.py：计算降糖药Precision、Recall、F1
-6. result_not_diaberes.py：计算非降糖药Precision、Recall、F1
+5. result_diabetes.py：计算降糖药Precision、Recall、F1
+6. result_not_diabetes.py：计算非降糖药Precision、Recall、F1
 7. result.py：计算所有药物总体Precision、Recall、F1
 8. merge_result.py：输出预测结果文件
 9. result_new.py：计算知识图谱查询和机器学习算法合并后预测结果以及指标
